@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyangan02
-- 👀 I’m interested in web developer and 
+- 👀 I’m interested in Cyber Security and 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
