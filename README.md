@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyangan02
-- 👀 I’m interested in Cyber Security and 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Cyber Security and Network
+- 🌱 I’m currently learning Blue Team Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
